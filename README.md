@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib26" alt="sakib26" /></a> </p>
 
-- 🔭 I’m currently working on **Gaming Website**
-
 - 🌱 I’m currently learning **javascript**
 
 - 👨‍💻 All of my projects are available at [CodeWithSakib.com](CodeWithSakib.com)
@@ -14,8 +12,6 @@
 - 💬 Ask me about **Css**
 
 - 📫 How to reach me **sakibmini81@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
