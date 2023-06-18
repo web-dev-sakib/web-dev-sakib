@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at [CodeWithSakib.com](CodeWithSakib.com)
-
 - 💬 Ask me about **Css**
 
 - 📫 How to reach me **sakibmini81@gmail.com**
