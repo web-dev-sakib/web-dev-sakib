@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAKIB</h1>
 <h3 align="center">A passionate frontend web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib26&label=Profile%20views&color=0e75b6&style=flat" alt="sakib26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-dev-sakib&label=Profile%20views&color=0e75b6&style=flat" alt="web-dev-sakib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib26" alt="sakib26" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-dev-sakib" alt="web-dev-sakib" /></a> </p>
 
 - 🌱 I’m currently learning **javascript**
 
